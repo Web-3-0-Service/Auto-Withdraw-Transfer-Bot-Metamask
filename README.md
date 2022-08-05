@@ -1,7 +1,7 @@
 # ⚠️You can buy the script Python on [@discord](https://discord.gg/zE5nUjbbk8) ⚠️
 
 <!-- ABOUT THE PROJECT -->
-## `👻 About thz project : `
+## `👻 About the project : `
 
 The project represents script allowing you create a loop of constant/automatic requests to your wallet withdrawing the balance. At this moment it does it for only native token of the chain you use: ETH, MATIC, BNB, AVAX etc.
 
