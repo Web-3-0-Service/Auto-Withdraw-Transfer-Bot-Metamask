@@ -1,4 +1,4 @@
-# ⚠️You can buy the script Python on [@discord](https://discord.gg/zE5nUjbbk8) ⚠️
+# ⚠️You can buy the script Python on [@discord](https://discord.gg/JTjj2FQNUh) ⚠️
 
 <!-- ABOUT THE PROJECT -->
 ## `👻 About the project : `
@@ -17,7 +17,7 @@ There are multiple usecases for this:
 
 ## `👻 Getting Started : `
 
-1. Buy it on the [@discord](https://discord.gg/zE5nUjbbk8) of Web-3.0 Service Agency
+1. Buy it on the [@discord](https://discord.gg/JTjj2FQNUh) of Web-3.0 Service Agency
 
 ## `👻 Installation : `
 
@@ -68,4 +68,4 @@ There are multiple usecases for this:
 
 Camelotis - https://twitter.com/Camelotis98
 
-Web 3.0 Service Agency discord - https://discord.gg/zE5nUjbbk8
+Web 3.0 Service Agency discord - https://discord.gg/JTjj2FQNUh
